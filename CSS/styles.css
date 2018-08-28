@@ -1,13 +1,13 @@
-h1 {
+\\h1 {
 
 color:  #ff0066;
 }
 #server-side-intro {
-   color: blue;
+   color: red;
 }
 
 th {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .my-brand {
