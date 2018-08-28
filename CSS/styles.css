@@ -3,15 +3,16 @@ h1 {
 color:  #ff0066;
 }
 #server-side-intro {
-   color: blue;
+   color: purple;
 }
 
 th {
-  font-size: 20px;
+  font-size: 19px;
+  text-decoration: underline;
 }
 
 .my-brand {
-  color:purple;
+  color:red;
   font-style:italics;
   text-transform:uppercase;
   font-size:20px;
